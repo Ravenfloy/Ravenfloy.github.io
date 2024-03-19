@@ -194,7 +194,7 @@ p{
     }
     
     .daten{
-        font-size: 9pt;
+        font-size: 10pt;
        overflow: scroll;
     }
 
@@ -215,7 +215,7 @@ p{
     }
 
     .kontakt{
-        font-size: 9pt;
+        font-size: 10pt;
         padding:10px;
         line-height: 200%;
         width:90%;
