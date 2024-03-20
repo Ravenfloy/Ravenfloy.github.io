@@ -20,27 +20,6 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   ::-moz-selection { /* Code for Firefox */
     color: white;
     background: black;
@@ -86,7 +65,7 @@ a{
 }
 
 .daten{
-    font-size: 20pt;
+    font-size: 16pt;
     padding-left:20px;
     padding-right: 8%;
     height:auto;
@@ -130,7 +109,7 @@ p{
   
 
 .kontakt{
-    font-size: 20pt;
+    font-size: 16pt;
     padding:10px;
     line-height: 200%;
     display:none;
